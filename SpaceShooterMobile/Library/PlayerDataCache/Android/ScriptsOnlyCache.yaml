@@ -67,21 +67,21 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1444}
     - Class: 114
-      Script: {instanceID: 1488}
+      Script: {instanceID: 1446}
     - Class: 114
-      Script: {instanceID: 1582}
+      Script: {instanceID: 1490}
     - Class: 114
-      Script: {instanceID: 1636}
+      Script: {instanceID: 1584}
     - Class: 114
-      Script: {instanceID: 2294}
+      Script: {instanceID: 1638}
     - Class: 114
-      Script: {instanceID: 2406}
+      Script: {instanceID: 2296}
     - Class: 114
-      Script: {instanceID: 2526}
+      Script: {instanceID: 2408}
     - Class: 114
-      Script: {instanceID: 2558}
+      Script: {instanceID: 2528}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2560}
     - Class: 114
       Script: {instanceID: 2766}
     - Class: 114
@@ -142,27 +142,27 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 1444}
     - Class: 114
-      Script: {instanceID: 1488}
+      Script: {instanceID: 1446}
     - Class: 114
-      Script: {instanceID: 1496}
+      Script: {instanceID: 1490}
     - Class: 114
-      Script: {instanceID: 1772}
+      Script: {instanceID: 1498}
     - Class: 114
-      Script: {instanceID: 1790}
+      Script: {instanceID: 1774}
     - Class: 114
-      Script: {instanceID: 1878}
+      Script: {instanceID: 1792}
     - Class: 114
-      Script: {instanceID: 2294}
+      Script: {instanceID: 1880}
     - Class: 114
-      Script: {instanceID: 2406}
+      Script: {instanceID: 2296}
     - Class: 114
-      Script: {instanceID: 2460}
+      Script: {instanceID: 2408}
     - Class: 114
-      Script: {instanceID: 2526}
+      Script: {instanceID: 2462}
     - Class: 114
-      Script: {instanceID: 2568}
+      Script: {instanceID: 2528}
     - Class: 114
-      Script: {instanceID: 2580}
+      Script: {instanceID: 2570}
     - Class: 114
       Script: {instanceID: 2622}
     - Class: 114
@@ -226,6 +226,12 @@ ScriptsOnlyBuild:
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
     className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
   - hash:
       serializedVersion: 2
       Hash: 5ab533713adae59372fb3e10a585c186
@@ -412,12 +418,6 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: UnityStandardAssets.CrossPlatformInput
     className: Joystick
-  - hash:
-      serializedVersion: 2
-      Hash: ae83e830e7a90c0aff918c4c2e520825
-    assemblyName: UnityEngine.UI.dll
-    namespaceName: UnityEngine.UI
-    className: GraphicRaycaster
   - hash:
       serializedVersion: 2
       Hash: f40fedccd4adbc76605bea6d67537e4b
@@ -770,4 +770,4 @@ ScriptsOnlyBuild:
   scenePathNames:
   - Assets/Scenes/MainMenu.unity
   - Assets/Scenes/SpaceShooter.unity
-  playerPath: C:/Users/franc/Desktop/UnityProjects/SpaceShooterMobile/SpaceShooterMobile/SpaceShooterMobile.apk
+  playerPath: C:/Users/franc/Desktop/UnityProjects/SpaceShooterMobile/SpaceShooterMobile.apk
